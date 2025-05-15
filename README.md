@@ -10,5 +10,6 @@
 ```git clone https://github.com/Kit-tw/Rotten-Potatoes.git```  
 ```cd Rotten-Potatoes ```  
 ```npm install --legacy-peer-deps ```  
+``` npm start ```
 # Live Demo  
 ``` https://auth-37d15.firebaseapp.com  ```
